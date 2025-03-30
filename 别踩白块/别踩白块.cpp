@@ -15,7 +15,7 @@ int MapX, MapY,Score=0;
 void InitBlack() {
 	for (int i = 0; i < N - 1; i++) {
 		Map[i] = rand() % N;
-		printf("5555");
+
 	}
 }
 
